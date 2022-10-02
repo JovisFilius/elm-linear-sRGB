@@ -16,7 +16,7 @@ colors that all share the same perceived brightness.
 
 ## Visual comparison
 
-![greenToBlue.png]
+![](greenToBlue.png)
 
 In the above screenshot, the upper interpolation is the current 'standard'
 interpolation applied to the sRGB-encoded values. The lower interpolation is
